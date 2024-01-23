@@ -6,4 +6,4 @@
 * 🔨 I'm the founder of LPAedu
 * 🚧 I'm currently building a website on PowerApps for the MTA
 * 🚧 I'm also working on webpages using Python (with Flask) and MySQL
-* ☎️ You can reach me at (929) 346-9867 (please text first, scammers love me) or tashrifapon2001@gmail.com, your preference.
+* ☎️ You can reach me at (929) 346-9867 (please text first, scammers love me) or tashrifapon2001@gmail.com, your preference
