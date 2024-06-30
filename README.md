@@ -4,6 +4,6 @@
 
 * 💻 I've been coding in Python primarily for 3 years, using Flask for 1
 * 🔨 I was the lead developer of LPAedu
-* 🚧 I'm currently building a website on PowerApps for the MTA
+* 🔨 I built a website with automation on PowerApps and PowerAutomate for the MTA
 * 🚧 I'm also working on webpages using Python (with Flask) and looking to implement MySQL
 * ☎️ You can reach me at (929) 346-9867 (please text first) or tashrifapon2001@gmail.com, your preference
