@@ -4,9 +4,9 @@
 
 * 🎓 On August of 2024, I graduated from Baruch College with a Bachelor's in Mathematics, minoring in Communication Studies.
 
-* 💼 Currently, I'm a Data Engineer (Contract) for NYC AG, LLC.meetings with a data provider and performed technical research to drive technical decisions.
-* 💻 I've been coding in primarily Python for 3 years, using Flask for 1. I've also worked with relational databases for 2 years and with nonrelational databases for 1 year.
-* 🔨 I was a SWE Intern at the NYC Department of Health and Mental Hygiene (NYC DOHMH).
+* 💼 Currently, I'm a Data Engineer (Contract) for NYC AG, LLC.
+* 💻 I've been coding in primarily Python for 3 years, using Flask for 2. I've also worked with relational databases for 2 years and with nonrelational databases for 1 year.
+* 🔨 I was a SWE Intern @ the NYC Department of Health and Mental Hygiene (NYC DOHMH).
 * 🔨 I was a SWE Intern @ the MTA. Fun fact: the MTA is the largest transit system in North America.
 * 🔨 I was the Lead Software Developer of LPAedu.
 * 🚧 I'm also working on webpages using Python (with Flask) and looking to implement MySQL.
