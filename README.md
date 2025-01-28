@@ -42,3 +42,8 @@
   <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sqlite" width="40" height="40"/> 
 </a>
 
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
+</a>
+
+
