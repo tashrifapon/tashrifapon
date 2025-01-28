@@ -45,5 +45,12 @@
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
 </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img src="https://techicons.dev/static/img/icons/flask.svg" alt="Flask" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/sql/" target="_blank" rel="noreferrer">
+  <img src="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server" alt="Microsoft SQL Server" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+</a>
 
 
