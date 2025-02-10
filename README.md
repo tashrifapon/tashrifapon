@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tashrifapon&label=Profile%20views&color=0e75b6&style=flat" alt="tashrifapon" /></p>
 
-<p>Find out more about my work on <a href="https://www.linkedin.com/in/tashrifapon/">LinkedIn*** and feel free to connect!
-<br>You can also find my work on <a href="https://tashrifapon.pythonanywhere.com">My Website***.</p>
+<p>Find out more about my work on <a href="https://www.linkedin.com/in/tashrifapon/">LinkedIn</a> and feel free to connect!
+<br>You can also find my work on <a href="https://tashrifapon.pythonanywhere.com">My Website</a>.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -17,6 +17,7 @@
 <p>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sqlite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="40" height="40"/>
 </p>
 
 <p align="left">
