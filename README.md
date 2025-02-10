@@ -15,13 +15,16 @@
 </p>
 
 <p>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-<img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sqlite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="Excel" width="40" height="40"/>
 </p>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerapps/powerapps-original.svg" alt="powerapps" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/microsoft/PowerPlatformIcons/main/PowerApps.svg" alt="PowerApps" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/microsoft/PowerPlatformIcons/main/PowerAutomate.svg" alt="Power Automate" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/microsoft/PowerPlatformIcons/main/SharePoint.svg" alt="SharePoint" width="40" height="40"/>
 </p>
 <!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>*** -->
 
