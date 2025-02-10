@@ -22,7 +22,7 @@
 </p>
 
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/en/3/37/Microsoft_Power_Apps_logo.svg" alt="PowerApps" width="50" height="50"/><br/>
+<img src="https://reset.nl/wp-content/uploads/2020/12/powerapps-1.png" alt="PowerApps" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/microsoft/PowerPlatformIcons/main/PowerAutomate.svg" alt="Power Automate" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/microsoft/PowerPlatformIcons/main/SharePoint.svg" alt="SharePoint" width="40" height="40"/>
 </p>
