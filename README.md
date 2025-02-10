@@ -18,24 +18,16 @@
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sqlite" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="Excel" width="40" height="40"/>
+<img src="https://www.freeiconspng.com/uploads/excel-icon-17.png" alt="Excel" width="40" height="40"/>
 </p>
 
 <p align="left">
-<img src="https://esc.be/wp-content/uploads/2022/07/2021-logo-tech_power-apps-nobg.png" alt="PowerApps" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/microsoft/PowerPlatformIcons/main/PowerAutomate.svg" alt="Power Automate" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/microsoft/PowerPlatformIcons/main/SharePoint.svg" alt="SharePoint" width="40" height="40"/>
+<img src="https://reset.nl/wp-content/uploads/2020/12/powerapps-1.png" alt="PowerApps" width="40" height="40"/>
+<img src="https://www.delta-n.nl/wp-content/uploads/2018/08/2021-logo-tech_power-automate-nobg.png" alt="Power Automate" width="40" height="40"/>
+<img src="https://th.bing.com/th/id/R.e0179053a4b3a9cf1ae129a0b278e46d?rik=WHr0CQtK2Pvwvg&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f61046931ada36000041881bd.png&ehk=JdVNwvbz%2fLz6N%2fLSKQcg%2byymTrl%2fSIwUcJ682M2dzFs%3d&risl=&pid=ImgRaw&r=0" alt="SharePoint" width="40" height="40"/>
 </p>
-<!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>*** -->
 
-
-
-
-
-
-
-
-
-
-
-
+<p>
+<img src="https://th.bing.com/th/id/OIP.kaq1JAUbKaJSa69Qvj_fYAHaEN?rs=1&pid=ImgDetMain" alt="Azure Devops" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
