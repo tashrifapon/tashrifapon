@@ -2,8 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tashrifapon&label=Profile%20views&color=0e75b6&style=flat" alt="tashrifapon" /></p>
 
-<p>Find out more about my work on <a href="https://www.linkedin.com/in/tashrifapon/">LinkedIn</a> and feel free to connect!
-<br>You can also find my work on <a href="https://tashrifapon.pythonanywhere.com">My Website</a>.</p>
+<p>Feel free to check out and clone <a href="https://github.com/tashrifapon/Interactive-Resume">My Best Repo</a>. Also, unknown to me as to why: <a href="https://github.com/tashrifapon/Python">My Most Starred Repo</a>. Both of these are also pinned below.</p> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
