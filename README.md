@@ -4,7 +4,7 @@
 
 <p>I am a Full Stack Software Engineer who loves to work in Modern (Python (Flask) and JavaScript) and Traditional/Legacy (.NET – C# and SQL) tech stacks. My specialty is in making performant and cost effective solutions.</p>
 
-<p>I also enjoying data mining.</p>
+<p>I also enjoying data mining via automation.</p>
 
 <p>At some point, I want to dive into Machine Learning as long as it yields real world value.</p>
 
