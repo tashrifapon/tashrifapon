@@ -2,6 +2,12 @@
 <h3 align="center">Software Engineer</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tashrifapon&label=Profile%20views&color=0e75b6&style=flat" alt="tashrifapon" /></p>
 
+<p>I am a Full Stack Software Engineer who loves to work in Modern (Python (Flask) and JavaScript) and Traditional/Legacy (.NET – C# and SQL) tech stacks. My specialty is in making performant and cost effective solutions.</p>
+
+<p>I also enjoying data mining.</p>
+
+<p>At some point, I want to dive into Machine Learning as long as it yields real world value.</p>
+
 <p>Feel free to check out and clone <a href="https://github.com/tashrifapon/Interactive-Resume">My Best Repo</a>. Similarly, <a href="https://github.com/tashrifapon/Python">My Most Starred Repo</a>. Both of these are also pinned below.</p> 
 
 <h3 align="left">Languages and Tools:</h3>
