@@ -8,7 +8,12 @@
 
 <p>At some point, I want to dive into Machine Learning as long as it yields real world value.</p>
 
-<p>Feel free to check out and clone <a href="https://github.com/tashrifapon/Interactive-Resume">My Best Repo</a>. Similarly, <a href="https://github.com/tashrifapon/Python">My Most Starred Repo</a>. Both of these are also pinned below.</p> 
+<p>Feel free to check out and clone <a href="https://github.com/tashrifapon/Interactive-Resume">My Best Repo</a>. Similarly, <a href="https://github.com/tashrifapon/Python">My Most Starred Repo</a>. Both of these are also pinned below.</p>
+
+#
+<p><b>Building a Stealth Startup</b></p>
+
+#
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
