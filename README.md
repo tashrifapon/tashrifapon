@@ -8,13 +8,13 @@
 
 <p>I also enjoying data mining via automation.</p>
 
-<p>At some point, I want to dive into Machine Learning as long as it yields real world value.</p>
+<p>At some point, I want to dive into Machine Learning.</p>
 
 #
 <h3 align="center">Current & Recent Activity</h3>
 <p><a href="https://github.com/tashrifapon/Interactive-Resume">ReSayMe</a> (open-sourced V1, current iteration private): Google Analytics for Job Seekers - gathering data to improve job search and candidacy. Pinned below.</p>
 <p>Islamic Midnight Calendar: in collaboration, planning a lot of revamping!</p>
-<p><a href="https://github.com/tashrifapon/A-Mail">A-Mail</a>: A hybrid AI email-triage app based on G-mail. Pinned below.</p>
+<p><a href="https://github.com/tashrifapon/A-Mail">A-Mail</a>: A hybrid AI email-triage app based on G-mail, with ~40% cost savings on LLM runs! Pinned below.</p>
 
 #
 
