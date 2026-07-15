@@ -4,7 +4,7 @@
 
 <p>I am a Full Stack Software Engineer who enjoys the Modern tech stack. (Python in the Flask framework and JavaScript + SQL). Moreover, I am eager to get more into C#, React, TypeScript and Golang.</p>
 
-<p>My specialty is in making performant and cost effective solutions.</p>
+<p>My specialty is in making performant and cost effective solutions, and I have done so in Government.</p>
 
 <p>I also enjoying data mining via automation.</p>
 
